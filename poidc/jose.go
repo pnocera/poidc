@@ -1,4 +1,4 @@
-package oidc
+package poidc
 
 // JOSE asymmetric signing algorithm values as defined by RFC 7518
 //
