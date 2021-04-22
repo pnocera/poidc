@@ -1,0 +1,1 @@
+slightly modified go oidc for Azure B2C
